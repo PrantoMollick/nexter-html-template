@@ -5,4 +5,4 @@ https://prantomollick.github.io/nexter-html-template/
 
 # [Nexter-Grid-HTML-template](https://prantomollick.github.io/nexter-html-template/)
 
-[<img src="./trillo-app.jpeg">](https://prantomollick.github.io/nexter-html-template/)
+[<img src="./nexter.jpeg">](https://prantomollick.github.io/nexter-html-template/)
